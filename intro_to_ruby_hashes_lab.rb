@@ -27,9 +27,9 @@ def monopoly_with_third_tier
       pieces: 4,
       rent_in_dollars: {
         one_piece_owned: 25,
-        second: '',
-        third: '',
-        four: ''
+        two_piece_owned: 50,
+        tree_piece_owned: 100,
+        four_piece_owned: 200
       },
       names: {
           first:'',
