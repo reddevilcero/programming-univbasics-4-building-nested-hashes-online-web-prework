@@ -31,7 +31,13 @@ def monopoly_with_third_tier
         third: '',
         four: ''
       },
-      names: {}
+      names: {
+        {
+          first:'',
+          second: '',
+          third: '',
+          four: ''
+      }
     },
 
   }
